@@ -24,12 +24,9 @@
 
 <h3 align="left">Portfólio</h3>
 
+
 ###
 
 <p align="left">Hello World!!</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/codepyrock/codepyrock/output/snake.svg" alt="Snake animation" />
-
-###
