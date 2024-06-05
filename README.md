@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💰 Atuo como Administrador no setor público.<br>🛫 Em transição de carreira para área de tecnologia.<br>📚 Atualmente estudando Python e seus diversos nichos.<br>🎯 Pretendo me tornar um desenvolvedor back end.</p>
+<p align="left">💰 Atuo como Administrador no setor público.<br>🛫 Em transição de carreira para área de tecnologia.<br>📚 Atualmente estudando Python e seus diversos nichos.<br>🎯 Pretendo me tornar um desenvolvedor de soluções.</p>
 
 ###
 
